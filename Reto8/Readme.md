@@ -108,4 +108,4 @@ En caso de implementación en código, la ejecución se realizaría desde una cl
 ---
 
 ### Evidencias
-![Diagrama UML](Laboratorio2/Evidencias/diagramaUML.png)
+![Diagrama UML](Reto8/Evidencias/diagramaUML.png)
